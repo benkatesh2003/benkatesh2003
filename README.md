@@ -2,7 +2,7 @@
 
 A passionate full stack web developer.
 
-![Profile views](https://komarev.com/ghpvc/?username=21vidushi\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=benkatesh2003\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 * 🌱 I’m currently learning **Backend Development**
 * 💬 Ask me about **ReactJS, JavaScript**
