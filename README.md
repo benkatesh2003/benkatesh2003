@@ -6,7 +6,7 @@ A passionate full stack web developer.
 
 * 🌱 I’m currently learning **Backend Development**
 * 💬 Ask me about **ReactJS, JavaScript**
-* 📫 How to reach me: **[svidushi184@gmail.com](mailto:hraj29515@gmail.com)**
+* 📫 How to reach me: **[hraj29515@gmail.com](mailto:hraj29515@gmail.com)**
 * ⚡ Fun fact: **I am ambitious.**
 
 ---
