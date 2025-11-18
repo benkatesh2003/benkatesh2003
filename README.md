@@ -14,7 +14,7 @@ A passionate full stack web developer.
 ## Connect with me:
 
 <p>
-<a href=" https://www.linkedin.com/in/benkatesh-narayan-4b6446215/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/benkatesh-narayan-4b6446215/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 &nbsp;&nbsp;
 <a href=" https://github.com/benkatesh2003"><img height="40" src="https://skillicons.dev/icons?i=github" /></a>
 </p>
